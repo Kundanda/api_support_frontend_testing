@@ -11,11 +11,11 @@ public class SignInTesting {
     
     public static void main(String[] args) throws InterruptedException {
         
-        SignInTesting.SignInFailBoundaryCase1();
+        //SignInTesting.SignInFailBoundaryCase1();
         //SignInTesting.SignInFailEmptyPassword();
         //SignInTesting.SignInFailEmptyUserName();
         //SignInTesting.SignInFailIncorrectPassword();
-        //SignInTesting.SignInFailCommonCase();
+        SignInTesting.SignInFailCommonCase();
         //SignInTesting.SignInPass();
         //SignInTesting.SignInWithGoogleButton();
         
